@@ -12,10 +12,10 @@ public class UASnomor2 {
         System.out.println("nim   :"+nim);
         System.out.println("=========================");
         ArrayList<String> kendaraanList = new ArrayList<>();
-        kendaraanList.add("Toyota");
-        kendaraanList.add("Honda");
-        kendaraanList.add("Suzuki");
-        kendaraanList.add("BMW");
+        kendaraanList.add("AE86");
+        kendaraanList.add("Mazda");
+        kendaraanList.add("Jeep");
+        kendaraanList.add("R34");
 
         boolean[] conditions = test(kendaraanList);
 

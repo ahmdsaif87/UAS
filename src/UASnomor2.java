@@ -14,7 +14,7 @@ public class UASnomor2 {
         ArrayList<String> kendaraanList = new ArrayList<>();
         kendaraanList.add("AE86");
         kendaraanList.add("Mazda");
-        kendaraanList.add("Jeep");
+        kendaraanList.add("JEEP");
         kendaraanList.add("R34");
 
         boolean[] conditions = test(kendaraanList);
